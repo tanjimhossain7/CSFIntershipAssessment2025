@@ -24,6 +24,12 @@ Write a toy implementation of whatever machine learning concept you
 would like in order to demonstrate your skills. This doesn\'t need to be
 in the notebook if you want to use something other than python.
 
+If you don't have an idea for a concept you would like to show off, here's an idea:
+
+- Create a notebook or application that processes the images it receives from your computer camera.
+- Have it classify something. Could be a human, a dog, a pencil, etc.
+- Have it identify something specific to the classification. Could be you, your dog, your favorite pencil.
+
 # Submission
 
 Fork this repository and once you\'ve completed the above questions,
