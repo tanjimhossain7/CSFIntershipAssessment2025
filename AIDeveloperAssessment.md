@@ -10,13 +10,9 @@ only spend about two hours on these questions. If you want to spend more
 you can. If you\'ve run out of time, please describe thoroughly what
 remains to be done and how you would accomplish it.
 
-## Jupyter Notebook to Processing Pipeline
+## Processing Video Pipeline
 
-Given a jupyter notebook that has a functioning implementation of a
-machine learning model that identifies unique individuals out of a crowd
-through gait analysis, how would you translate that notebook to a piece
-of software that can be used to apply the model to any arbitrary images
-or videos provided.
+Assume you have a working ML model that can process individual images and identify carrots, how would you adapt that model such that you could feed it live video inside a grocery store and have it create a record of any carrots it sees.
 
 ## Demo
 
@@ -24,11 +20,7 @@ Write a toy implementation of whatever machine learning concept you
 would like in order to demonstrate your skills. This doesn\'t need to be
 in the notebook if you want to use something other than python.
 
-If you don't have an idea for a concept you would like to show off, here's an idea:
-
-- Create a notebook or application that processes the images it receives from your computer camera.
-- Have it classify something. Could be a human, a dog, a pencil, etc.
-- Have it identify something specific to the classification. Could be you, your dog, your favorite pencil.
+The problems we work on are wholly related to classfication, so your toy implementation should show knowledge of the fundamentals of classification problems.
 
 # Submission
 
